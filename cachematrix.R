@@ -1,3 +1,4 @@
+## This is a version made by Prateek Sharma for Coursera's R Programming Course - Programming Assignment 2
 ## Put comments here that give an overall description of what your
 ## functions do
 
